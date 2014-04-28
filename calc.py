@@ -32,7 +32,6 @@ costs = OrderedDict([
     ("Migrate Materials", SEC_AWARE * 4),
     ("Web Platform", SEC_AWARE * 80),
     ("Appoint ISAC", CISO * 1),
-    ("Divide Participants", SEC_AWARE * 4),
     ("Pre tests", ISAC * 0.5),
     ("Curriculum 1", SEC_AWARE * 40),
     ("Event 1", SEC_AWARE * 4 + EVENT),
